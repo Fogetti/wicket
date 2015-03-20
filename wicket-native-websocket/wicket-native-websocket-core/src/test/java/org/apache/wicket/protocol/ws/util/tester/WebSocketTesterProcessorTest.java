@@ -140,5 +140,4 @@ public class WebSocketTesterProcessorTest extends Assert {
         request.addParameter("resourceName", TestWebSocketResource.TEXT);
         request.addParameter(WebRequest.PARAM_AJAX_BASE_URL, ".");
     }
-
 }
